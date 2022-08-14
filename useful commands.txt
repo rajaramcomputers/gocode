@@ -1,0 +1,3 @@
+go run github.com/pluralsight/webservice
+
+$ENV:GOOS ="linux"; go build main.go

@@ -18,7 +18,7 @@ func main() {
 	var f float32 = 3.14
 	fmt.Println(f)
 
-	firstname := "Ramkumar"
+	firstname := "Krishnakumar"
 	fmt.Println(firstname)
 
 	c := complex(3, 4)
